@@ -1,0 +1,33 @@
+{
+    "times": [ 0.0, 2.0, 5.0, 9.0 ],
+    "waypoints": {
+        "0": {
+            "accelerations": [ NaN, NaN, NaN ],
+            "end-effector xyz": [ 0.47928, 0.3842, 0.14573 ],
+            "names": [ "HEBI/Base", "HEBI/Shoulder", "HEBI/Elbow" ],
+            "positions": [ 0.7042877078056335, -0.16979765892028809, -0.549161434173584 ],
+            "velocities": [ NaN, NaN, NaN ]
+        },
+        "1": {
+            "accelerations": [ NaN, NaN, NaN ],
+            "end-effector xyz": [ 0.47924, 0.38423, 0.14576 ],
+            "names": [ "HEBI/Base", "HEBI/Shoulder", "HEBI/Elbow" ],
+            "positions": [ 0.7042655944824219, -0.16976787149906158, -0.5491302609443665 ],
+            "velocities": [ NaN, NaN, NaN ]
+        },
+        "2": {
+            "accelerations": [ NaN, NaN, NaN ],
+            "end-effector xyz": [ 0.47925, 0.38423, 0.14576 ],
+            "names": [ "HEBI/Base", "HEBI/Shoulder", "HEBI/Elbow" ],
+            "positions": [ 0.7042837738990784, -0.16975252330303192, -0.5491551160812378 ],
+            "velocities": [ NaN, NaN, NaN ]
+        },
+        "3": {
+            "accelerations": [ NaN, NaN, NaN ],
+            "end-effector xyz": [ 0.47925, 0.38422, 0.14573 ],
+            "names": [ "HEBI/Base", "HEBI/Shoulder", "HEBI/Elbow" ],
+            "positions": [ 0.7042052745819092, -0.1698073297739029, -0.5490515232086182 ],
+            "velocities": [ NaN, NaN, NaN ]
+        }
+    }
+}
