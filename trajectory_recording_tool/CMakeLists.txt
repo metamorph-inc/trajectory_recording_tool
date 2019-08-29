@@ -8,17 +8,6 @@ project(trajectory_recording_tool)
 ## if COMPONENTS list like find_package(catkin REQUIRED COMPONENTS xyz)
 ## is used, also find other catkin packages
 find_package(catkin REQUIRED COMPONENTS
-  geometry_msgs
-  hebiros
-  pykdl_utils
-  roscpp
-  rospy
-  sensor_msgs
-  std_msgs
-  trac_ik_lib
-  trac_ik_python
-  trajectory_msgs
-  actionlib
 )
 
 ## System dependencies are found with CMake's conventions
